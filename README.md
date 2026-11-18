@@ -54,9 +54,3 @@ src/
   utils/       format.js (números, moeda, normalização de texto)
 ```
 
-## Como publicar (deploy)
-
-O projeto usa `HashRouter` e `base: './'`, então funciona em qualquer hospedagem estática.
-**Netlify/Vercel:** importar o repositório, build `npm run build`, pasta `dist`.
-**GitHub Pages:** `npm run build` e publicar o conteúdo de `dist/` (branch `gh-pages` ou Actions).
-
