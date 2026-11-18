@@ -3,9 +3,6 @@
 Plataforma web em **React** para consultar regiões, estados e municípios brasileiros com dados oficiais do **IBGE**.
 Projeto A3 (UC HUB) – front-end consumindo APIs públicas, com foco em **usabilidade (Nielsen)** e **acessibilidade (WCAG)**.
 
-- **Deploy:** 
-- **Repositório:**
-
 ## Como rodar
 
 ```bash
